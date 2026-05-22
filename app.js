@@ -4,7 +4,7 @@
 ═══════════════════════════════════════════════════════════════ */
 
 // ─── CONFIG ──────────────────────────────────────────────────
-const API = 'https://script.google.com/macros/s/AKfycbzoo-t_N-jpHM5fH6t_mOS4FNTAFcJDTIH_lnblQvyBYzOyxDzq27ctYt6kFy2Tlqdw/exec';
+const API = 'https://script.google.com/macros/s/AKfycbw9_hYqRsE111fhNBqfMFQpOJNqnMYFz_2N2f-RsUX2AotXNLs31Qbk34TUBNXBwV0t/exec';
 
 // ─── ESTADO GLOBAL ───────────────────────────────────────────
 const STATE = {
